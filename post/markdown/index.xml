@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on </title>
-    <link>https://zhanmmeng.github.io/</link>
-    <description>Recent content in Blog on </description>
+    <title>Markdown on </title>
+    <link>https://zhanmmeng.github.io/post/markdown/</link>
+    <description>Recent content in Markdown on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Dec 2022 15:14:16 +0800</lastBuildDate><atom:link href="https://zhanmmeng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 20:58:11 +0800</lastBuildDate><atom:link href="https://zhanmmeng.github.io/post/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>高级技巧</title>
       <link>https://zhanmmeng.github.io/%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7/</link>
@@ -125,26 +125,6 @@ markdown是一种纯文本标记语言&amp;#160;&amp;#x21a9;&amp;#xfe0e;</descri
       <description>1.使用“=”和“-”标记一级标题和二级标题
 一级标题 二级标题 2.使用“#”标记 1-6 级标题
 一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 </description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://zhanmmeng.github.io/first/</link>
-      <pubDate>Mon, 19 Dec 2022 14:40:05 +0800</pubDate>
-      
-      <guid>https://zhanmmeng.github.io/first/</guid>
-      <description>随便写点</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://zhanmmeng.github.io/about/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhanmmeng.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/russross/blackfriday https://github.</description>
     </item>
     
   </channel>

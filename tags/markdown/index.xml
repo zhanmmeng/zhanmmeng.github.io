@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on </title>
+    <link>https://zhanmmeng.github.io/tags/markdown/</link>
+    <description>Recent content in markdown on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 21 Dec 2022 11:43:43 +0800</lastBuildDate><atom:link href="https://zhanmmeng.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>代码</title>
+      <link>https://zhanmmeng.github.io/%E4%BB%A3%E7%A0%81/</link>
+      <pubDate>Wed, 21 Dec 2022 11:43:43 +0800</pubDate>
+      
+      <guid>https://zhanmmeng.github.io/%E4%BB%A3%E7%A0%81/</guid>
+      <description>代码 段落上的函数或片段的代码可以用反引号包起来 ``
+print函数
+代码区块 使用4个空格或者一个tab制表符键 (需要上一行有一个空行)
+func main(){ fmt.Println(&amp;quot;hello world) } 使用&amp;quot;``````&amp;ldquo;包裹，中间可以指定语言 &amp;ldquo;go&amp;rdquo;
+func main(){ fmt.Println(&amp;#34;hello world) } </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://zhanmmeng.github.io/first/</link>
+      <pubDate>Mon, 19 Dec 2022 14:40:05 +0800</pubDate>
+      
+      <guid>https://zhanmmeng.github.io/first/</guid>
+      <description>随便写点</description>
+    </item>
+    
+  </channel>
+</rss>
